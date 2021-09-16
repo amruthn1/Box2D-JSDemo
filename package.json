@@ -1,0 +1,22 @@
+{
+  "name": "jsphysics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "dependencies": {
+    "box2d-wasm": "npm:liquidfun-wasm@^4.0.2",
+    "path": "^0.12.7",
+    "webpack": "^5.33.2",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "devDependencies": {
+    "ts-loader": "^8.1.0",
+    "typescript": "^4.2.4",
+    "webpack-cli": "^4.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
